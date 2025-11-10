@@ -163,7 +163,9 @@ footer{
     marquee{
         animation-play-state: paused;
     }
-
+    footer{
+        font-size: 12px;
+    }
     
 }
 
