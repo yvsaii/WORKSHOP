@@ -196,7 +196,8 @@ footer {
     }
 
     .poster {
-        margin-top: -10px;
+        position: absolute;
+        margin-top: -15px;
         z-index: 1;
     }
 
