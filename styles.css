@@ -186,9 +186,7 @@ footer{
         margin-top: -15px;
     }
     
-    .header{
-        padding: 2rem 0rem;
-    }
+
     .header h1{
         font-size: 2rem;
     }
@@ -206,9 +204,10 @@ footer{
     }
     .header{
         height: 70px;
+        padding: 2rem 0rem;
     }
     .main{
-        height: 100vh;
+        height: 50vh;
     }
 }
 
