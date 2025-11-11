@@ -177,7 +177,7 @@ footer{
         font-size: 1.2rem;
     }
     .main{
-        height: 50vh;
+        height: 200vh;
     }
     marquee{
         animation-play-state: paused;
