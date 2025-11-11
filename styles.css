@@ -201,8 +201,11 @@ footer{
     .title p{
         font-size: 15px;
     }
+    .header{
+        height: 70px;
+    }
     .main{
-        height: 48vh;
+        height: 100vh;
     }
 }
 
