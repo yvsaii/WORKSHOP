@@ -176,6 +176,9 @@ footer{
     h1{
         font-size: 1.2rem;
     }
+    .main{
+        height: 50vh;
+    }
     marquee{
         animation-play-state: paused;
     }
@@ -185,8 +188,6 @@ footer{
     .poster{
         margin-top: -15px;
     }
-    
-
     .header h1{
         font-size: 2rem;
     }
@@ -206,9 +207,7 @@ footer{
         height: 70px;
         padding: 2rem 0rem;
     }
-    .main{
-        height: 50vh;
-    }
+    
 }
 
 
